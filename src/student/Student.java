@@ -1,5 +1,7 @@
 package student;
 
+// sheridan college
+
 public class Student {
 
     private String name;
