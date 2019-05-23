@@ -10,6 +10,8 @@ public class Student {
 
     private String studentID;
     
+    private boolean parttime; // branch parttime
+    
     public Student(String name, int age, boolean sex, String studentID) {
         this.name = name;
         this.age = age;
@@ -62,5 +64,13 @@ public class Student {
 
     public void setStudentid(String studentID) {
         this.studentID = studentID;
+    }
+
+    public boolean isParttime() {
+        return parttime;
+    }
+
+    public void setParttime(boolean parttime) {
+        this.parttime = parttime;
     }
 }
