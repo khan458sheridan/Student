@@ -2,7 +2,7 @@ package student;
 
 /**
  *
- * @author Mohaiminul Hasan
+ * @author Mohaiminul Hasan Khan
  */
 public class Main {
     private static Student[] arr = new Student[5];
