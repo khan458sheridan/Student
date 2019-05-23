@@ -2,7 +2,7 @@ package student;
 
 /**
  *
- * @author Mohammad Mohaiminul Hasan Khan
+ * @author Mohaiminul Hasan Khan
  * remote
  */
 public class Main {
