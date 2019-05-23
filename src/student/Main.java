@@ -3,7 +3,6 @@ package student;
 /**
  *
  * @author Mohaiminul Hasan Khan
- * remote
  */
 public class Main {
     private static Student[] arr = new Student[5];
